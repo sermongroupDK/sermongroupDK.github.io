@@ -20,9 +20,8 @@
 
 title: Sermon Group Research (Aarhus)
 email: anag@cas.au.dk
-description: >- # this means to ignore newlines until "baseurl:"
-This is a short description of the contents of this website.
-baseurl: "sermongroupDK.github.io"
+description: This is a short description of the contents of this website.
+baseurl: "/sermongroupDK.github.io"
 url: "https://github.com/sermongroupDK/"
 twitter_username: 
 github_username:  sermongroupDK
