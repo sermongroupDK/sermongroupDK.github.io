@@ -27,7 +27,7 @@ twitter_username:
 github_username:  sermongroupDK
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
